@@ -1,7 +1,8 @@
 @import "~bulma/sass/utilities/_all";
 
-// TODO: Add customization here.
+// Customs
+@import "variables";
 
 @import "~bulma";
 @import "~buefy/src/scss/buefy";
-@import "~font-awesome/scss/font-awesome";
+@import "~@mdi/font/scss/materialdesignicons";
